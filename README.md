@@ -19,6 +19,6 @@ This is a static one page portfolio Template made using HTML & CSS
 
 **[Live Project's netlify link](https://resilient-flan-c203f7.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./assets/screenshot.png)](https://resilient-flan-c203f7.netlify.app/ "Project link")
+[![Project ScreenShot](./assets/Screenshot.png)](https://resilient-flan-c203f7.netlify.app/ "Project link")
 
 ---
